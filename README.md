@@ -3,8 +3,8 @@ daily-activity done in intership at mobius365
 
 #login page- where you can use the username and password to login the page
 
-#Encapsulation: * Wrapping up of a data into a single unit
-                * Used getter and setter method that let us read and write the instance value of the object
+#Encapsulation: *Wrapping up of a data into a single unit
+                *Used getter and setter method that let us read and write the instance value of the object
 # Inheritence : Inherits the features of another class
                SYNTAX:
                     class sub-class name extends superclass-name
