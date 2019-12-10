@@ -5,8 +5,6 @@ daily-activity done in intership at mobius365
 
 #Encapsulation: * Wrapping up of a data into a single unit
                 * Used getter and setter method that let us read and write the instance value of the object
-        
-        
 # Inheritence: Inherits the features of another class
                SYNTAX:
                     class sub-class name extends superclass-name
