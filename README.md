@@ -1,4 +1,0 @@
-# charAt()
-#indexof()
-#length()
-#compareto()
