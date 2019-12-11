@@ -12,3 +12,7 @@ Basics programs and database connectivity
  #sum of the digits 
  #reversing a number and string
  
+ 3.classes and objects
+ #class is a blueprint
+ #object is a real world entity that creates objects for the class
+ 
