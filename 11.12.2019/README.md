@@ -35,3 +35,9 @@ HashMap<String,Integer> object=new HashMap<>();
 9.endswith()
 
 ##endsWith method checks whether the String ends with a specified suffix.
+
+
+10.static variable
+
+##keyword static must be used
+##The static variable can be used to refer to the common property of all objects
