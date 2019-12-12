@@ -22,3 +22,11 @@ Vector<>object=new Vector<>();
 
 ##Vector can use both enumeration and Iterator
 ##Arraylist can use only iterator
+
+
+3.Matrix addition 
+
+#to add two matrices 
+#two methods used
+1.one is for getting the user input
+2.another one to print the result
