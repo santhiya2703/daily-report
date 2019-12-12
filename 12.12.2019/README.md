@@ -30,3 +30,15 @@ Vector<>object=new Vector<>();
 #two methods used
 1.one is for getting the user input
 2.another one to print the result
+
+
+4.Array program to add sum of all numbers in the array
+
+#Syntax to declare an array :
+dataType[] arr; (or)  
+dataType []arr; (or)  
+dataType arr[]; 
+
+#Instantiation of array:
+
+arrayRefVar=new datatype[size];  
