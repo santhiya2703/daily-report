@@ -49,3 +49,9 @@ arrayRefVar=new datatype[size];
 #named loops
 used break statement
 #use continue also to jump to start of the named loop
+
+
+
+6.date and time 
+
+#displaying the current date and time
