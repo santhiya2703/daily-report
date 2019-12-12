@@ -55,3 +55,6 @@ used break statement
 6.date and time 
 
 #displaying the current date and time
+
+
+7.Creating a empty text file in a folder
