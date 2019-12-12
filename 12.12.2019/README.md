@@ -42,3 +42,10 @@ dataType arr[];
 #Instantiation of array:
 
 arrayRefVar=new datatype[size];  
+
+
+5.sample loop program 
+
+#named loops
+used break statement
+#use continue also to jump to start of the named loop
