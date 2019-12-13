@@ -3,4 +3,8 @@
 
 2.In  a given array finding the largest and smallest elements
 
+
 3.Finding the maximum elements in array
+
+
+4.Deleting an element in a given array
