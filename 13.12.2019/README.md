@@ -11,3 +11,6 @@
 
 
 5.Putting an even and odd elements in a separate array
+
+
+6.Inserting an element into a array
