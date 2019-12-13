@@ -1,3 +1,6 @@
+sample programs in array concepts
+
+
 1.Finding largest 2 numbers in the array
 
 
