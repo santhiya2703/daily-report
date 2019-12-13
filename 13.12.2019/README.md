@@ -2,3 +2,5 @@
 
 
 2.In  a given array finding the largest and smallest elements
+
+3.Finding the maximum elements in array
