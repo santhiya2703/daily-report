@@ -8,3 +8,6 @@
 
 
 4.Deleting an element in a given array
+
+
+5.Putting an even and odd elements in a separate array
