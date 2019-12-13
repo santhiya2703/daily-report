@@ -17,3 +17,6 @@ sample programs in array concepts
 
 
 6.Inserting an element into a array
+
+
+7. calculating the sum and average of an array
