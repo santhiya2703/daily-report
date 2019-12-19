@@ -10,3 +10,8 @@
 
 #ends(): specifies the following pattern should end at the last character position of the string
 
+
+
+2.Split a text based on a delimiter pattern  
+
+#Split the string at a delimiter determined by a regular expression instead of a set of characters.
